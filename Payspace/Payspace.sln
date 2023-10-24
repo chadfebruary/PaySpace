@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payspace", "Payspace\Payspace.csproj", "{866EF2FA-4125-429F-A722-7A34F835C5C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{BF02BB2E-E978-4478-B367-6D28BB3F7589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{866EF2FA-4125-429F-A722-7A34F835C5C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{866EF2FA-4125-429F-A722-7A34F835C5C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{866EF2FA-4125-429F-A722-7A34F835C5C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{866EF2FA-4125-429F-A722-7A34F835C5C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF02BB2E-E978-4478-B367-6D28BB3F7589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF02BB2E-E978-4478-B367-6D28BB3F7589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF02BB2E-E978-4478-B367-6D28BB3F7589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF02BB2E-E978-4478-B367-6D28BB3F7589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {969CF77F-4204-44BB-8217-9548F9CC0D07}
+	EndGlobalSection
+EndGlobal

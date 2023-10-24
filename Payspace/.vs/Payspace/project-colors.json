@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "866ef2fa-4125-429f-a722-7a34f835c5c7": {
+      "ProjectGuid": "866ef2fa-4125-429f-a722-7a34f835c5c7",
+      "DisplayName": "Payspace",
+      "ColorIndex": 0
+    },
+    "bf02bb2e-e978-4478-b367-6d28bb3f7589": {
+      "ProjectGuid": "bf02bb2e-e978-4478-b367-6d28bb3f7589",
+      "DisplayName": "TestProject",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

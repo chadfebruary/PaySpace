@@ -1,0 +1,25 @@
+﻿@page
+@model Models.TaxCalculator
+@{
+    ViewData["Title"] = "Home page";
+}
+<form method="post">
+    <div class="text-center" asp-controller="TaxCalculatorController" asp-action="CalculateTax">
+
+    <h1 class="display-4">Enter your details below:</h1>
+    <div>
+        <label for="AnnualIncome">Enter your annual income: </label><input asp-for="AnnualIncome" type="number" />
+    </div>
+    <div>
+        <label for="PostalCode">Enter your postal code: </label>
+        <select asp-for="PostalCode">
+            @foreach()
+            {
+                    
+                }
+        </select>
+    </div>
+    
+    </div>
+</form>
+
